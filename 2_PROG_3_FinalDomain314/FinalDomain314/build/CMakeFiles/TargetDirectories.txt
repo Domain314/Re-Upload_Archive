@@ -1,3 +1,0 @@
-/home/domain/Documents/GitHub/fh/2_PROG_3_FinalDomain314/FinalDomain314/build/CMakeFiles/3_FinalDomain314.dir
-/home/domain/Documents/GitHub/fh/2_PROG_3_FinalDomain314/FinalDomain314/build/CMakeFiles/edit_cache.dir
-/home/domain/Documents/GitHub/fh/2_PROG_3_FinalDomain314/FinalDomain314/build/CMakeFiles/rebuild_cache.dir
